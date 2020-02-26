@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 hola este es un documento de ejemplo que modificamos en la rama ej2
 Añadir cambios en fichero.txt de la rama ej1
 lorem ipsum
+=======
+hola este es un documento de ejemplo modificado en la rama ej2
+>>>>>>> ej1
