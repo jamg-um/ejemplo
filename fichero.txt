@@ -1,1 +1,2 @@
 hola este es un documento de ejemplo que modificamos en la rama ej2
+Añadir cambios en fichero.txt de la rama ej1
